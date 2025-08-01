@@ -1,0 +1,8 @@
+{
+  "name": "Rock, Paper, Scissors - Gesture Edition",
+  "description": "A web application where users play Rock, Paper, Scissors against the computer using hand gestures detected from their webcam via the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
